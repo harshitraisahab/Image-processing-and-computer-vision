@@ -1,7 +1,6 @@
 
 # -*- coding: utf-8 -*-
-"""
-@author: NISHANT
+
 """
 #-----------------------------------------------------------------------------
 #Step - 1  -Import Libraries and capture camera
